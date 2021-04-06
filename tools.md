@@ -1,0 +1,38 @@
+## 工作环境配置
+- git
+    - 终端内输入`git`， 会自动确认是否安装`git`，确认即可
+- vscode
+    - 需要直接在代码文件内，打开`vscode`，安装`vscode`后，使用`command + shift + p` 输入`shell`，可以看到`在 path 中安装 code 命令`
+     点击安装即可，然后在终端切换到代码文件中，使用`code .` 即可使用`vscode`打开当前文件夹
+- 截图软件
+    - `AppStore` 中搜索`Xnip`
+- 修改`Host`
+    - [SwitchHosts](https://github.com/oldj/SwitchHosts)
+- 编写文档
+    - 安装`Typora`
+- 快速打开应用
+    - 安装 `Alfred`
+- 命令行
+    - 安装`zsh`，并修改相关快捷键，一般在`/Users/用户名/.oh-my-zsh/oh-my-zsh.sh`中修改
+- 终端
+    - 安装`iTerm2`并设置皮肤为`Solarized Dark Higher Contrast`(皮肤需要下载)
+- 编辑器
+    - webstorm
+    > 使用 webstorm 打开当前文件命令 `open -a webstorm .`
+- 下载工具
+    - Motrix(还没试用过)
+    > 支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源    
+- 压缩工具
+    - The Unarchiver
+    - [Keka](https://www.keka.io/en/)
+        > 去官网下上下载，在 app store 上要钱
+- 剪贴板工具
+    - [Clipy](https://clipy-app.com/)
+- 查看 epub 文件
+    - [cleanview](https://xclient.info/s/clearview.html)    
+- 番茄工具
+    - [tomato one]  App Store上搜
+- 控制所有关键的声音
+    - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
+- 视频
+    - IINA         
