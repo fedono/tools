@@ -19,6 +19,8 @@
 - 编辑器
     - webstorm
     > 使用 webstorm 打开当前文件命令 `open -a webstorm .`
+    > 在 config/webstorm 有个 configs.zip 的文件，在配置 webstorm 的时候使用 file -> manage IDE settings -> import settings 的路径导入这个配置就可以了
+    >
 - 下载工具
     - Motrix(还没试用过)
     > 支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源    
