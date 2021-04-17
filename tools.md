@@ -17,6 +17,8 @@
     - [webstorm](https://xclient.info/s/web-storm.html)
         > 使用 webstorm 打开当前文件命令 `open -a webstorm .`
         > 在 config/webstorm 有个 configs.zip 的文件，在配置 webstorm 的时候使用 file -> manage IDE settings -> import settings 的路径导入这个配置就可以了
+        > 
+        > 长期使用方式参考 [1](https://xclient.info/a/b11e938b-10b5-83bc-7cc7-3012aba930f8.html) | [2](https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html)
     - [vscode](https://code.visualstudio.com/)
         - 需要直接在代码文件内，打开`vscode`，安装`vscode`后，使用`command + shift + p` 输入`shell`，可以看到`在 path 中安装 code 命令`
          点击安装即可，然后在终端切换到代码文件中，使用`code .` 即可使用`vscode`打开当前文件夹
@@ -39,3 +41,9 @@
     - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - 视频
     - [IINA](https://iina.io/)
+- 上网
+    - [1](https://github.com/vpncn/vpncn.github.io) | [1-副本](https://github.com/vpnforchina/vpnforchina.github.io) 
+    - [2](https://glados.one/console)    
+    - [3](https://lightyearapp.live/zh/pricing?payment=all)
+    - [4](http://strongvpn.com/)
+    - [5](https://www.fastvpncn.com/expressvpn)
