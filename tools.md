@@ -35,7 +35,7 @@
 - 番茄工具
     - [tomato one]  App Store上搜
     - [Timer](https://github.com/michaelvillar/timer-app)
-- 控制所有关键的声音
+- 控制所有软件的声音
     - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - 视频
     - IINA         
