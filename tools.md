@@ -32,6 +32,9 @@
         > 去官网下上下载，在 app store 上要钱
 - 剪贴板工具
     - [Clipy](https://clipy-app.com/)
+- 本地保存代码片段剪贴板工具
+  - [snippetslab](https://xclient.info/s/snippetslab.html)
+    > 点击直接复制代码，可以保存日常使用频率较高的如 shell 脚本等，比如登录机器步骤，比如查找当前机器占用较大的文件，比如 SQL 等
 - 查看 epub 文件
     - [cleanview](https://xclient.info/s/clearview.html)    
 - 番茄工具
