@@ -23,6 +23,7 @@
         - 需要直接在代码文件内，打开`vscode`，安装`vscode`后，使用`command + shift + p` 输入`shell`，可以看到`在 path 中安装 code 命令`
          点击安装即可，然后在终端切换到代码文件中，使用`code .` 即可使用`vscode`打开当前文件夹
         - 打开后，使用`command + shift + p` 打开面板，选择 `install 'code' command in path`来配置在命令行中使用`code .` 打开当前目录  
+        - 主题找到了 [GitHub.github-vscode-theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) 会觉得好一点
 - 下载工具
     - Motrix(还没试用过)
     > 支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源    
