@@ -45,6 +45,9 @@
     - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 - 视频
     - [IINA](https://iina.io/)
+- pbcopy （系统自带的）
+    - 在命令行中直接将输出内容复制到剪贴中，如 `cat file.text | pbcopy` 则现在可以使用 `ctrl + v` 粘贴了，也可以通过 `pbcopy < file.text` 将`file.text`中的内容复制到剪贴版中
+    - 这时候可以通过 pbpaste 来检索内容，如剪贴中有多个内容，通过 `pbpaste name` 就可以检索到含有 `name` 的内容并进行输出到当前窗口中了
 - 上网
     - [1](https://github.com/vpncn/vpncn.github.io) | [1-副本](https://github.com/vpnforchina/vpnforchina.github.io) 
     - [2](https://glados.one/console)    
