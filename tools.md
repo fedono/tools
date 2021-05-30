@@ -18,6 +18,7 @@
         > 使用 webstorm 打开当前文件命令 `open -a webstorm .`
         > 在 config/webstorm 有个 configs.zip的文件（有多个这样的文件，随意使用其中一个），在配置 webstorm 的时候使用 file -> manage IDE settings -> import settings 的路径导入这个配置就可以了
         > 
+        > [配置官方文档](https://www.jetbrains.com/help/webstorm/tool-windows.html)
         > 长期使用方式参考 [1](https://xclient.info/a/b11e938b-10b5-83bc-7cc7-3012aba930f8.html) | [2](https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html)
     - [vscode](https://code.visualstudio.com/)
         - 需要直接在代码文件内，打开`vscode`，安装`vscode`后，使用`command + shift + p` 输入`shell`，可以看到`在 path 中安装 code 命令`
