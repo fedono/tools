@@ -21,11 +21,13 @@
     
 - [Contexts](https://www.macappbox.com/a/821.html)
   
-    > Contexts 软件太牛逼了啊，真是太牛逼了，    
+    > Contexts 软件太牛逼了啊，真是太牛逼了
     
 - [Thor](https://www.macappbox.com/a/609.html) 
   
     > 通过快捷键来打开某个应用，其实就相当于桌面软件切换工具，这样就不用再使用 command + tab 来打开所有的面板来切换了，既然我的主要应用是 webstorm 和 Chrome，日常在开发中，就设置这两个应用就可以了
+    >
+    > 这个才是切换应用最好的，也是最快的，还是比 contexts 要好，con
     
 - [Yoink](https://www.macappbox.com/a/yoink.html) 
   
@@ -89,3 +91,7 @@
   是一个非常好的日常管理的软件，可以写今天要做的事情，非常方便的就能定好某个时间做什么事情
 
   直接输入 `@12:11` 就能设定任务，以及能够根据日期进入编辑文档来整理当天的事情以及工作安排、总结之类的，是这个软件最大的亮点
+  
+- Hidden Bar
+
+    隐藏采集栏中的图标，使用过 bartender 和 vanilla，都不如这个免费的好，在 App Store 中搜就有 
