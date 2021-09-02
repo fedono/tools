@@ -51,6 +51,14 @@
    > 8. 微信窗口置顶
    > 9. 会话多选删除
    > 10. 自动登录开关
+   >
+   > 微信双开
+   >
+   > ```
+   > open -n /Applications/WeChat.app/Contents/MacOS/WeChat
+   > ```
+   >
+   > 或者参考   https://zhuanlan.zhihu.com/p/189457703
    
 - [Presentify](https://www.macappbox.com/a/616.html)
   
@@ -71,6 +79,8 @@
 - [Typinator](https://www.macappbox.com/a/typinator.html)
 
   自动化插入经常使用的文本和图形，比如在软件内设置了`dt` 然后他会自动的转换成当天的日期这种，可以在 mac 全平台使用
+  
+  >  Oh-my-zshell 中有非常多的插件，输入某个命令能够自动对应具体的命令然后执行，这种就比 Typinator 好，因为这个是无感知的，比如使用 git 的时候，直接使用 gcmsg 就是提交信息，这个替换成 git commit -m 就是无感知的，不会在其他地方输入 gcmsg 的时候会替换，但是使用 Typinator 的时候，就会输入命令立即自动替换成其他的命令，就是有感知的
   
 - [Workspaces](https://xclient.info/s/workspaces.html)
 

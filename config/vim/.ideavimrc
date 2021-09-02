@@ -1,0 +1,3 @@
+" 使用 ctrl + up-arrow/down-arrow 来上下移动当前行的代码
+nmap <C-UP> :m-2<CR>  
+nmap <C-DOWN> :m+1<CR>

@@ -1,18 +1,25 @@
 ## 工作环境配置
 - git
     - 终端内输入`git`， 会自动确认是否安装`git`，确认即可
+    
 - 截图软件
     - `AppStore` 中搜索`Xnip`
+    
 - 修改`Host`
     - [SwitchHosts](https://github.com/oldj/SwitchHosts)
+    
 - 编写文档
     - [Typora](https://www.typora.io/)
+    
 - 快速打开应用
     - 安装 `Alfred`
+    
 - 命令行
     - 安装 [zsh](https://ohmyz.sh/#install)，并修改相关快捷键，一般在`/Users/用户名/.oh-my-zsh/oh-my-zsh.sh`中修改
+    
 - 终端
     - 安装[iTerm2](https://iterm2.com/) 并设置皮肤为`Solarized Dark Higher Contrast`(皮肤需要下载)
+    
 - 编辑器
     - [webstorm](https://xclient.info/s/web-storm.html)
         > 使用 webstorm 打开当前文件命令 `open -a webstorm .`
@@ -25,34 +32,53 @@
          点击安装即可，然后在终端切换到代码文件中，使用`code .` 即可使用`vscode`打开当前文件夹
         - 打开后，使用`command + shift + p` 打开面板，选择 `install 'code' command in path`来配置在命令行中使用`code .` 打开当前目录  
         - 主题找到了 [GitHub.github-vscode-theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) 会觉得好一点
+    
 - 下载工具
     - Motrix(还没试用过)
     > 支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源    
+    
 - 压缩工具
     - The Unarchiver
     - [Keka](https://www.keka.io/en/)
-        
+      
         > 去官网下上下载，在 app store 上要钱
+    
 - 剪贴板工具
     - [Clipy](https://clipy-app.com/)
+    
 - 本地保存代码片段剪贴板工具
   - [snippetslab](https://xclient.info/s/snippetslab.html)
     
     > 点击直接复制代码，可以保存日常使用频率较高的如 shell 脚本等，比如登录机器步骤，比如查找当前机器占用较大的文件，比如 SQL 等
+  
 - 查看 epub 文件
     - [cleanview](https://xclient.info/s/clearview.html)    
+    
 - 番茄工具
     - [tomato one]  App Store上搜
     - [Timer](https://github.com/michaelvillar/timer-app)
+    
 - 思维导图
     - [ithoughtsx](https://xclient.info/s/ithoughtsx.html)   
+    
 - 控制所有软件的声音
     - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
+    
 - 视频
     - [IINA](https://iina.io/)
+    
+- 桌面取色工具
+
+    - System Color Picker
+
+         (APP Store 上搜)
+
 - pbcopy （系统自带的）
     - 在命令行中直接将输出内容复制到剪贴中，如 `cat file.text | pbcopy` 则现在可以使用 `ctrl + v` 粘贴了，也可以通过 `pbcopy < file.text` 将`file.text`中的内容复制到剪贴版中
     - 这时候可以通过 pbpaste 来检索内容，如剪贴中有多个内容，通过 `pbpaste name` 就可以检索到含有 `name` 的内容并进行输出到当前窗口中了
+    
+- github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。
+
 - 上网
     - [1](https://github.com/vpncn/vpncn.github.io) | [1-副本](https://github.com/vpnforchina/vpnforchina.github.io) 
     - [2](https://glados.one/console)    
