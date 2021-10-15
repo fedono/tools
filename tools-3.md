@@ -28,3 +28,16 @@
 
   感觉还是需要在这里找到一个好用的画图的工具，以后画流程图还是需要的
 
+- [ToothFairy](https://xclient.info/s/tooth-fairy.html)
+
+  一键切换连接蓝牙设备
+
+- [Gestimer ](https://xclient.info/s/gestimer.html)
+
+  简单方便的提醒创建小工具
+
+- Handle mirror  
+
+  打开一个小窗口（摄像头）来在会议前整理自己的形象
+
+  直接 APP store  下载 

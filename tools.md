@@ -73,6 +73,12 @@
 
          (APP Store 上搜)
 
+- 画流程图，日常画架构图
+
+    - iThoughxs 
+        - 这个还真挺好用的，画脑图使用 tab / enter 自动增加，可以分组、注释，箭头这些都有，很方便
+    - [whimsical](https://whimsical.com/)  密码使用 chrome 记录了
+
 - pbcopy （系统自带的）
     - 在命令行中直接将输出内容复制到剪贴中，如 `cat file.text | pbcopy` 则现在可以使用 `ctrl + v` 粘贴了，也可以通过 `pbcopy < file.text` 将`file.text`中的内容复制到剪贴版中
     - 这时候可以通过 pbpaste 来检索内容，如剪贴中有多个内容，通过 `pbpaste name` 就可以检索到含有 `name` 的内容并进行输出到当前窗口中了
