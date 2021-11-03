@@ -1,6 +1,10 @@
 # 安装的软件
 - [sound control](https://www.macappbox.com/a/sound-control-2.html) 可以设置各个 APP 的音量，因为 background music 经常会有闪退的现象，可以试试这个
 
+    > 好像 sound control 有时候经常不灵，
+
+    - 或者是 [sound source](https://xclient.info/s/soundsource.html)
+
 - [KeyboardCleanTool](https://www.macappbox.com/a/668.html) 禁用掉当前的键盘和 Touchbar，可是我还是想找一个只是禁止 touchbar 的工具
 
   > 这个说是可以让小孩不要乱按电脑之类的
