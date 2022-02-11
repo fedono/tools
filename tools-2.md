@@ -17,7 +17,9 @@
 
     这个还是很吊的，直接设置快捷键，我们在打开文件的时候，可以直接使用快捷键使用命令行、编辑器打开当前文件或者拷贝当前文件路径  
 
-- clipy 使用 shift + command + space 来在当前窗口打开所有的剪贴历史来复制
+- [Hazel 5.0.7 自动化文件管理工具](https://xclient.info/s/hazel.html)
+
+    Hazel 是每一位不懂自动化脚本编程的非技术控Mac用户必用的一款文件自动化管理软件，通过在任意目录下设定多个规则“Rule”就能让Mac进行旧文件归档到指定目录，垃圾文件进Trash，存储的图片进iPhoto 等自动化管理行为，随时保持井井有条~
 
 -  [Movavi Screen Recorder](https://www.macappbox.com/a/Movavi-Screen-Recorder.html)  
    
@@ -26,12 +28,6 @@
 - [Contexts](https://www.macappbox.com/a/821.html)
   
     > Contexts 软件太牛逼了啊，真是太牛逼了
-    
-- [Thor](https://www.macappbox.com/a/609.html) 
-  
-    > 通过快捷键来打开某个应用，其实就相当于桌面软件切换工具，这样就不用再使用 command + tab 来打开所有的面板来切换了，既然我的主要应用是 webstorm 和 Chrome，日常在开发中，就设置这两个应用就可以了
-    >
-    > 这个才是切换应用最好的，也是最快的，还是比 contexts 要好，con
     
 - [Yoink](https://www.macappbox.com/a/yoink.html) 
   
@@ -80,12 +76,6 @@
 
   打开这个软件后，在选中某个其他的使用的软件后，长按 command 就会显示当前应用的快捷键
 
-- [Typinator](https://www.macappbox.com/a/typinator.html)
-
-  自动化插入经常使用的文本和图形，比如在软件内设置了`dt` 然后他会自动的转换成当天的日期这种，可以在 mac 全平台使用
-  
-  >  Oh-my-zshell 中有非常多的插件，输入某个命令能够自动对应具体的命令然后执行，这种就比 Typinator 好，因为这个是无感知的，比如使用 git 的时候，直接使用 gcmsg 就是提交信息，这个替换成 git commit -m 就是无感知的，不会在其他地方输入 gcmsg 的时候会替换，但是使用 Typinator 的时候，就会输入命令立即自动替换成其他的命令，就是有感知的
-  
 - [Workspaces](https://xclient.info/s/workspaces.html)
 
     可以设定一系列的动作，比如打开应用，那么在开机的时候，就可以自动打开这一系列的软件了，或者运行一系列的脚本之类的
@@ -105,17 +95,3 @@
   是一个非常好的日常管理的软件，可以写今天要做的事情，非常方便的就能定好某个时间做什么事情
 
   直接输入 `@12:11` 就能设定任务，以及能够根据日期进入编辑文档来整理当天的事情以及工作安排、总结之类的，是这个软件最大的亮点
-  
-- Hidden Bar
-
-    隐藏采集栏中的图标，使用过 bartender 和 vanilla，都不如这个免费的好，在 App Store 中搜就有 
-
-- 在桌面上的时间展示
-
-    - zClock Lite 
-
-        这个就显示在当前桌面的右上角，在每个桌面都会显示，背景透明，比较没有什么倾入性，所以这个会好一点
-
-    - onTime PRO 
-
-        这个是一个比较大一点的，显示当前的月份、星期和时间，只会在当前桌面显示，比较有倾入性，占据的比较显眼。还是使用 zCliock Lite 吧

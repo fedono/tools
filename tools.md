@@ -1,4 +1,7 @@
 ## 工作环境配置
+
+> 这里是日常使用的高频工具，tools-2/tools-3 是比较好的工具，但是日常使用并不高频
+
 - git
     - 终端内输入`git`， 会自动确认是否安装`git`，确认即可
     
@@ -10,6 +13,8 @@
     
 - 编写文档
     - [Typora](https://www.typora.io/)
+    - [marktext](https://github.com/marktext/marktext)
+      - Typora 最好的替代品
     
 - 快速打开应用
     - 安装 `Alfred`
@@ -44,7 +49,9 @@
         > 去官网下上下载，在 app store 上要钱
     
 - 剪贴板工具
-    - [Clipy](https://clipy-app.com/)
+    - [Clipy](https://clipy-app.com/) 
+    
+      使用 shift + command + space 来在当前窗口打开所有的剪贴历史来复制
     
 - 本地保存代码片段剪贴板工具
   - [snippetslab](https://xclient.info/s/snippetslab.html)
@@ -63,6 +70,7 @@
     
 - 控制所有软件的声音
     - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
+    - [soundsource](https://xclient.info/s/soundsource.html)
     
 - 视频
     - [IINA](https://iina.io/)
@@ -79,10 +87,40 @@
         - 这个还真挺好用的，画脑图使用 tab / enter 自动增加，可以分组、注释，箭头这些都有，很方便
     - [whimsical](https://whimsical.com/)  密码使用 chrome 记录了
 
+- [Thor](https://www.macappbox.com/a/609.html) 
+
+    > 通过快捷键来打开某个应用，其实就相当于桌面软件切换工具，这样就不用再使用 command + tab 来打开所有的面板来切换了，既然我的主要应用是 webstorm 和 Chrome，日常在开发中，就设置这两个应用就可以了
+    >
+    > 这个才是切换应用最好的，也是最快的，还是比 contexts 要好
+
+- [Typinator](https://www.macappbox.com/a/typinator.html)
+
+    自动化插入经常使用的文本和图形，比如在软件内设置了`dt` 然后他会自动的转换成当天的日期这种，可以在 mac 全平台使用
+
+    >  Oh-my-zshell 中有非常多的插件，输入某个命令能够自动对应具体的命令然后执行，这种就比 Typinator 好，因为这个是无感知的，比如使用 git 的时候，直接使用 gcmsg 就是提交信息，这个替换成 git commit -m 就是无感知的，不会在其他地方输入 gcmsg 的时候会替换，但是使用 Typinator 的时候，就会输入命令立即自动替换成其他的命令，就是有感知的
+
+- [DCommander 3.9.1 双窗格文件管理](https://xclient.info/s/dcommander.html)
+
+    目前能找到的最好的文件管理的工具
+
+- Hidden Bar
+
+    隐藏采集栏中的图标，使用过 bartender 和 vanilla，都不如这个免费的好，在 App Store 中搜就有 
+
+- 在桌面上的时间展示
+
+    - zClock Lite 
+
+      这个就显示在当前桌面的右上角，在每个桌面都会显示，背景透明，比较没有什么倾入性，所以这个会好一点
+
+    - onTime PRO 
+
+      这个是一个比较大一点的，显示当前的月份、星期和时间，只会在当前桌面显示，比较有倾入性，占据的比较显眼。还是使用 zCliock Lite 吧
+
 - pbcopy （系统自带的）
     - 在命令行中直接将输出内容复制到剪贴中，如 `cat file.text | pbcopy` 则现在可以使用 `ctrl + v` 粘贴了，也可以通过 `pbcopy < file.text` 将`file.text`中的内容复制到剪贴版中
     - 这时候可以通过 pbpaste 来检索内容，如剪贴中有多个内容，通过 `pbpaste name` 就可以检索到含有 `name` 的内容并进行输出到当前窗口中了
-    
+
 - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。
 
 - 上网
