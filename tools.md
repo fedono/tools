@@ -103,6 +103,8 @@
 
     目前能找到的最好的文件管理的工具
 
+    - 还有一个 Qspace 好像也很好，在 APP store 中有，需要六十块多钱就是
+
 - Hidden Bar
 
     隐藏采集栏中的图标，使用过 bartender 和 vanilla，都不如这个免费的好，在 App Store 中搜就有 
@@ -122,6 +124,23 @@
     - 这时候可以通过 pbpaste 来检索内容，如剪贴中有多个内容，通过 `pbpaste name` 就可以检索到含有 `name` 的内容并进行输出到当前窗口中了
 
 - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。
+
+- 练习打字
+
+    >  如何练习编程的手速？ - 韦易笑的回答 - 知乎 https://www.zhihu.com/question/27021761/answer/53323794
+    >
+    > - 在[dosbox 官网](https://www.dosbox.com/) 下载能够运行 exe 文件的程序
+    > - 下载 [tt.exe](http://www.skywind.me/mw/images/e/eb/TT-Dosbox.7z) 打字文件
+    >   - 备用下载地址，登录百度网盘->系统和软件 中有一个 TT-Dosbox.7z 文件，里面有 tt.exe 
+    > - 安装 dosbox 之后
+    >   - 把 tt.exe 放到 ~/{username}/dosbox 文件夹下
+    >   - 在 dosbox 中，使用 mount C:  ~/{username}/dosbox
+    >     - 也就是将 ~/{username}/dosbox 设置为 C 盘
+    >     - Drive C is mounted as local directory /Users/[your username]/dosbox/
+    >   - 然后使用 C: tt.exe 打开tt 软件即可
+    >   - 参考 https://www.dosbox.com/wiki/DOSBox_and_Mac_OS_X 
+
+    - 
 
 - 上网
     - [1](https://github.com/vpncn/vpncn.github.io) | [1-副本](https://github.com/vpnforchina/vpnforchina.github.io) 
