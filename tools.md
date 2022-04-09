@@ -59,14 +59,12 @@
     > 点击直接复制代码，可以保存日常使用频率较高的如 shell 脚本等，比如登录机器步骤，比如查找当前机器占用较大的文件，比如 SQL 等
   
 - 查看 epub 文件
-    - [cleanview](https://xclient.info/s/clearview.html)    
+    - [clearview](https://xclient.info/s/clearview.html)    
+    - [Clearview X](https://xclient.info/s/clearview-x.html)  clearview 的升级版，更好，两个都下载
     
 - 番茄工具
     - [tomato one]  App Store上搜
     - [Timer](https://github.com/michaelvillar/timer-app)
-    
-- 思维导图
-    - [ithoughtsx](https://xclient.info/s/ithoughtsx.html)   
     
 - 控制所有软件的声音
     - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
@@ -83,7 +81,7 @@
 
 - 画流程图，日常画架构图
 
-    - iThoughxs 
+    - [iThoughtsx](https://xclient.info/s/ithoughtsx.html)
         - 这个还真挺好用的，画脑图使用 tab / enter 自动增加，可以分组、注释，箭头这些都有，很方便
     - [whimsical](https://whimsical.com/)  密码使用 chrome 记录了
 
@@ -113,11 +111,15 @@
 
     - zClock Lite 
 
+      > 直接 app store 下载，免费的
+
       这个就显示在当前桌面的右上角，在每个桌面都会显示，背景透明，比较没有什么倾入性，所以这个会好一点
 
-    - onTime PRO 
+    - [onTime PRO](https://xclient.info/s/ontime-pro.html)
 
-      这个是一个比较大一点的，显示当前的月份、星期和时间，只会在当前桌面显示，比较有倾入性，占据的比较显眼。还是使用 zCliock Lite 吧
+      这个是一个比较大一点的，显示当前的月份、星期和时间，只会在当前桌面显示，比较有倾入性，占据的比较显眼。还是使用 zClock Lite 吧
+      
+      > 进入设置里面取消 time 以及 border 的背景透明度，就能和 zClock Lite 一样了，当个备用吧，挺好的，使用外接显示器的时候，显示器放 zClock Lite 然后笔记本使用 onTime Pro 就挺好
 
 - pbcopy （系统自带的）
     - 在命令行中直接将输出内容复制到剪贴中，如 `cat file.text | pbcopy` 则现在可以使用 `ctrl + v` 粘贴了，也可以通过 `pbcopy < file.text` 将`file.text`中的内容复制到剪贴版中
