@@ -32,6 +32,7 @@
         > 
         > [配置官方文档](https://www.jetbrains.com/help/webstorm/tool-windows.html)
         > 长期使用方式参考 [1](https://xclient.info/a/b11e938b-10b5-83bc-7cc7-3012aba930f8.html) | [2](https://zhile.io/2020/11/18/jetbrains-eval-reset-da33a93d.html)
+        
     - [vscode](https://code.visualstudio.com/)
         - 需要直接在代码文件内，打开`vscode`，安装`vscode`后，使用`command + shift + p` 输入`shell`，可以看到`在 path 中安装 code 命令`
          点击安装即可，然后在终端切换到代码文件中，使用`code .` 即可使用`vscode`打开当前文件夹
@@ -90,6 +91,14 @@
     > 通过快捷键来打开某个应用，其实就相当于桌面软件切换工具，这样就不用再使用 command + tab 来打开所有的面板来切换了，既然我的主要应用是 webstorm 和 Chrome，日常在开发中，就设置这两个应用就可以了
     >
     > 这个才是切换应用最好的，也是最快的，还是比 contexts 要好
+
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+
+    - 平常会在 Thor 中设定 option + s 切换到浏览器，option +  x 切换到终端，option + w 切换到编辑器，那么当我们在浏览文件夹的时候，如何快速使用上面三个程序来打开当前文件夹的文件呢
+
+        可能会在终端进行切换，然后使用 open -a webstorm . 来打开，这样就需要多步的操作了
+
+        终极答案当然是 OpenInTerminal 了，设定 ctrl + s / ctrl + x / ctrl +w 快捷键，可以快速使用上面的三个程序来打开当前的文件夹
 
 - [Typinator](https://www.macappbox.com/a/typinator.html)
 
