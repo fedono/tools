@@ -70,6 +70,7 @@
 - 控制所有软件的声音
     - [Background Music](https://github.com/kyleneideck/BackgroundMusic)
     - [soundsource](https://xclient.info/s/soundsource.html)
+      - 上面那个有时不好用，就直接使用 soundsource 吧
     
 - 视频
     - [IINA](https://iina.io/)
@@ -136,6 +137,17 @@
 
 - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题。
 
+- 批量下载微信文章
+
+    - 使用 [微助手](https://www.weixinzg.cn/) 下载所有的历史文章为 html 或者 PDF
+        - 然后下载 eazyCHM 来转换 HTML 为 chm 的格式（因为如果文章较多，使用 PDF 打开会比较卡，chm 好一点
+            - chm 在 mac 使用 chmPages 阅读
+                - chm viewer star 会丢失图片，要么是格式不对，切换了格式之后，目录和文章主体的格式都没办法全部正常显示，只能是一个正常显示，Windows 电脑就能够全部正常显示，chmPages 是切换格式只会切换主体的，所以才能用
+                - chm 阅读器 连切换格式的都没看见在哪，就没
+        - 上面这两个都需要 Windows 电脑中完成，上面这两个都测试过了，是可用的
+    - 速生不惑 的文章 [一键下载公众号所有文章，导出文件支持PDF，HTML，Markdown，Excel，chm等格式](https://mp.weixin.qq.com/s/sBK_NkSnS3qTOnajl6Y94Q) 这个介绍了一下方案，应该是可以
+    - [爬虫](https://github.com/wnma3mz/wechat_articles_spider) 这个是 GitHub 上的，不完整，得自己折腾折腾，但是大概率是可用的，应该是作者怕侵权
+
 - 练习打字
 
     >  如何练习编程的手速？ - 韦易笑的回答 - 知乎 https://www.zhihu.com/question/27021761/answer/53323794
@@ -150,8 +162,6 @@
     >     - Drive C is mounted as local directory /Users/[your username]/dosbox/
     >   - 然后使用 C: tt.exe 打开tt 软件即可
     >   - 参考 https://www.dosbox.com/wiki/DOSBox_and_Mac_OS_X 
-
-    - 
 
 - 上网
     - [1](https://github.com/vpncn/vpncn.github.io) | [1-副本](https://github.com/vpnforchina/vpnforchina.github.io) 
